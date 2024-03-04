@@ -1,0 +1,39 @@
+body {
+  font-family: "Noto Sans Cham", sans-serif;
+  font-weight: 200;
+  font-style: normal;
+}
+
+body {
+    background-color: rgb(244, 241, 237);
+}
+.container {
+    width: 1200px;
+    margin: auto;
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.box1{
+    margin-top: 210px;
+    width: 30%;
+}
+
+.box2 {
+    margin-top: 40px;
+    width: 22%;
+    margin-left: 150px;
+}
+
+.box3 {
+    margin-left: 500px;
+    width: 20%;
+}
+.box4 {
+    width: 22%;
+    margin-left: 80%;
+    margin-top: -330px;
+}
